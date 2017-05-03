@@ -1,5 +1,5 @@
 # Your presentation title
-title: Jekyll and Reveal.js
+title: Jade Hoffmann
 
 # The Reveal theme
 reveal_theme: black.css
@@ -24,6 +24,6 @@ reveal_path: reveal.js/
 
 # Don't change anything below
 markdown: redcarpet
-highlighter: pygments
+# highlighter: pygments
 markdown_ext: ignoreme
 
